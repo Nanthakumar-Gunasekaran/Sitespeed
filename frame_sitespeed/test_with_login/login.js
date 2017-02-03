@@ -22,7 +22,7 @@ module.exports = { //making this as a independent , reusable code
                     username_field.sendKeys(username)
                     var password_field = drive.findElement(webdriver.By.id("password"))
                     password_field.sendKeys(password)
-                    
+
                     loginForm.submit()
                 })
         })
