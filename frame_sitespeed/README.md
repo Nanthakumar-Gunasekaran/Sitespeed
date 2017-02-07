@@ -4,10 +4,14 @@
 * Should have installed Node.js
 * Should have installed "npm(node package manager)" module
 
-## Install requirements
-To install the required libs, run the following command
+## Install Sitespeed module
+To install the sitespeed module
 ```sh
-pip install -r requirements.txt
+npm install sitespeed.io -g
 ```
 
-
+## Sitespeed commands
+To know the sitespeed commands
+```sh
+sitespeed.io --help
+```
