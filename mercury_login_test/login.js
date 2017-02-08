@@ -2,7 +2,6 @@ module.exports = { //making this as a independent , reusable code
     run(context) { //By default, the context file is offering a webdriver class
         return context.runWithDriver((driver) => {
             // after initiating the driver , its getting the url
-            console.log("executed")
             return driver.get("http://newtours.demoaut.com")
                 then(() => { //then means promise. (ie) this will get executed for sure after the previous command line
 
