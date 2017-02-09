@@ -1,1 +1,3 @@
 http://newtours.demoaut.com/mercuryreservation.php
+http://newtours.demoaut.com/mercuryregister.php
+http://newtours.demoaut.com/mercuryunderconst.php
