@@ -1,5 +1,5 @@
 # SITESPEED
-Sitespeed.io is the complete toolbox to test the web performance of your web site. Use it to monitor your performance
+Sitespeed.io is an open source tool that helps you analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange)
 
 ## Prerequisite
 * Should have installed Node.js
